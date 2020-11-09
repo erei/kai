@@ -1,0 +1,13 @@
+{
+  "name": "kai",
+  "version": "1.0.0",
+  "description": "Customized Bulma; dark themed.",
+  "main": "",
+  "repository": "https://github.com/erei/kai",
+  "author": "erei",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
+}
