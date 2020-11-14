@@ -33,8 +33,14 @@ $link-focus-border: $grey-lighter;
 $link-active: $purple;
 $link-active-border: darken($purple, 5%);
 
+// CARD
 $card-shadow: 0;
 $card-header-shadow: 0;
+
+// BOX
+$box-shadow: 0;
+$box-link-hover-shadow: 0;
+$box-link-active-shadow: 0;
 
 // FORM
 $label-color: $grey-lightest;
