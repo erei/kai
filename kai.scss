@@ -33,8 +33,8 @@ $link-focus-border: $grey-lighter;
 $link-active: $purple;
 $link-active-border: darken($purple, 5%);
 
-$card-shadow: null;
-$card-header-shadow: null;
+$card-shadow: 0;
+$card-header-shadow: 0;
 
 // FORM
 $label-color: $grey-lightest;
@@ -43,7 +43,7 @@ $label-color: $grey-lightest;
 $input-color: $grey-lightest;
 $input-background-color: $black-ter;
 $input-border-color: $grey-darker;
-$input-shadow: null;
+$input-shadow: 0;
 $input-hover-color: $grey-lighter;
 $input-hover-border-color: $grey-dark;
 $input-focus-color: $grey-lighter;
