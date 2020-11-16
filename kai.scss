@@ -16,8 +16,8 @@ $scheme-invert-bis: $white-bis;
 $scheme-invert-ter: $white-ter;
 
 $background: $black;
-$border: $black-bis;
-$border-hover: $black-ter;
+$border: $black-ter;
+$border-hover: $grey-darker;
 $border-light: $grey;
 $border-light-hover: $grey-light;
 
@@ -33,15 +33,6 @@ $link-focus-border: $grey-lighter;
 $link-active: $purple;
 $link-active-border: darken($purple, 5%);
 
-// CARD
-$card-shadow: 0;
-$card-header-shadow: 0;
-
-// BOX
-$box-shadow: 0;
-$box-link-hover-shadow: 0;
-$box-link-active-shadow: 0;
-
 // FORM
 $label-color: $grey-lightest;
 
@@ -49,7 +40,6 @@ $label-color: $grey-lightest;
 $input-color: $grey-lightest;
 $input-background-color: $black-ter;
 $input-border-color: $grey-darker;
-$input-shadow: 0;
 $input-hover-color: $grey-lighter;
 $input-hover-border-color: $grey-dark;
 $input-focus-color: $grey-lighter;
@@ -62,6 +52,6 @@ $file-cta-color: $grey-light;
 $file-cta-hover-color: $grey-lighter;
 $file-cta-active-color: $grey-lighter;
 
-// Content
+
 
 @import "node_modules/bulma/bulma.sass";
